@@ -1,5 +1,7 @@
 //A simple Blockchain Product
 //Reference: https://youtu.be/zVqczFZr124
+//Pre-requisites: install crypto-js in Terminal
+//  npm install --save crypto-js
 
 const SHA256 = require('crypto-js/sha256');
 
